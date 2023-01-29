@@ -1,2 +1,2 @@
 # todolistproject
-https://mttaskin.github.io/todolistders/
+https://mttaskin.github.io/todo-list-project/
